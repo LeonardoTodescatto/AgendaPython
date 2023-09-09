@@ -3,7 +3,7 @@ def menu():
   while voltarMenuPrincipal=='s':
     opcao= input(f'''
   =================================================================
-         PROJETO AGENDA EM PYTHON / LEONARDO TODESCATTO  v.3.2
+   PROJETO AGENDA EM PYTHON / LEONARDO TODESCATTO  v.3.2 09.09.23
                                 +
                                 + {contarContatos()} CONTATOS CADASTRADOS
                                 +
