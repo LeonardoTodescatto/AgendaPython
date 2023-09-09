@@ -3,7 +3,7 @@ def menu():
   while voltarMenuPrincipal=='s':
     opcao= input(f'''
   =================================================================
-                    PROJETO AGENDA EM PYTHON                v.1
+         PROJETO AGENDA EM PYTHON / LEONARDO TODESCATTO  v.3.2
                                 +
                                 + {contarContatos()} CONTATOS CADASTRADOS
                                 +
@@ -120,7 +120,7 @@ def ultimoContatoCadastrado():
     return ultimoContato
     
 def sair():
-  print(f'Até mais... !!!')
+  print(f'Obrigado por ter chego até aqui!')
   exit()
 
  
